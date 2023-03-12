@@ -8,3 +8,5 @@ Also you will need to create a Open API Key. Currently OpenAI is awarding $18.00
 > speech_key, service_region, openai_key = "<\YourCognitiveServicesKey>", "eastus2", "<\YourOpenAIAPIKey>"
 
 Leverages ChatGPT latest model gpt-3.5-turbo
+
+![image](https://user-images.githubusercontent.com/6943803/224547684-0dcd08dd-c1c1-449a-b33f-fc985c283c80.png)
